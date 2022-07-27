@@ -35,4 +35,6 @@
   * GitHub: xiov91
   * E-Mail: xiovacc@gmail.com
   
+  ## Video
   
+  You can watch the walkthrough video [here](https://drive.google.com/file/d/1ZFfCtJdtd-jrshP9vuzghOryNNgQM_UG/view)
